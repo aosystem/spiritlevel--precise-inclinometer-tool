@@ -6,6 +6,9 @@ A reliable and minimalist **Spirit Level** (Bubble Level) built with **Flutter**
 [![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple&logoColor=white)](https://apps.apple.com/jp/app/id6473119678)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/B09UTj3GrkQ/0.jpg)](https://www.youtube.com/watch?v=B09UTj3GrkQ)
+
 ## 🌟 Key Features
 - **High-Precision Measurement:** Leverages internal accelerometer and gyroscope sensors for real-time angle detection.
 - **Horizontal & Vertical Support:** Designed to measure tilt accurately by placing the device against an object.
